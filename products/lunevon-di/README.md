@@ -12,4 +12,6 @@ Lunevon DI provides Android device information, current system readings and loca
 
 Product page: https://lunevon.com/products/device-info/
 
+RuStore: https://www.rustore.ru/catalog/app/com.lunevon.deviceinfo
+
 > This directory contains public release metadata only. Product source code and private implementation details are not published.
