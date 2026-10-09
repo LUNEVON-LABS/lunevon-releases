@@ -25,8 +25,8 @@ It contains release metadata, public changelogs, permission notes and verificati
 
 | Product | Version | Status | Details |
 |---|---:|---|---|
-| **Lunevon DI** | **1.0.9** | Current | [Release record](products/lunevon-di/1.0.9.md) |
-| **Lunevon Signal** | **1.0.5** | Current | [Release record](products/lunevon-signal/1.0.5.md) |
+| **Lunevon DI** | **1.0.9** | Published · RuStore | [Release record](products/lunevon-di/1.0.9.md) |
+| **Lunevon Signal** | **1.0.5** | Published · RuStore | [Release record](products/lunevon-signal/1.0.5.md) |
 
 ---
 
@@ -43,6 +43,7 @@ Device information and diagnostics for Android with technical characteristics, c
 - No Internet permission
 
 [Product page →](https://lunevon.com/products/device-info/)  
+[RuStore →](https://www.rustore.ru/catalog/app/com.lunevon.deviceinfo)  
 [Release history →](products/lunevon-di/README.md)
 
 ### Lunevon Signal
@@ -57,6 +58,7 @@ Real-time Wi-Fi signal visualization and local connection information.
 - No Internet permission
 
 [Product page →](https://lunevon.com/products/signal/)  
+[RuStore →](https://www.rustore.ru/catalog/app/com.lunevon.signal)  
 [Release history →](products/lunevon-signal/README.md)
 
 ---
