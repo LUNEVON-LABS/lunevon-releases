@@ -12,4 +12,6 @@ Lunevon Signal visualizes the current Wi-Fi radio signal and local link informat
 
 Product page: https://lunevon.com/products/signal/
 
+RuStore: https://www.rustore.ru/catalog/app/com.lunevon.signal
+
 > This directory contains public release metadata only. Product source code and private implementation details are not published.
